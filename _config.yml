@@ -18,6 +18,14 @@ permalink: blog/:year/:month/:title
 job.title: "Assistant Professor"
 excerpt_separator: "<!--more-->"
 
+github: [metadata]
+kramdown:
+  input: GFM
+  hard_wrap: false
+gems:
+  - jekyll-coffeescript
+  - jekyll-paginate
+
 # SEO stuff
 # google_author: ""
 # google_site_verification: ""
