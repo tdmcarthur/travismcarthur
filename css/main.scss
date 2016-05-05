@@ -3,6 +3,7 @@
 ---
 @charset "utf-8";
 
+// <link rel='stylesheet' id='twentytwelve-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
 
 
 // Our variables
@@ -17,9 +18,10 @@ $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #0077CC;
 // $gameday-sky: #109dc0;
-$clemson-purple:      #522d80;
-$clemson-orange:      #f66733;
-
+$clemson-purple:      #547D33; // #522d80;
+$clemson-orange:      #8E3800; // #993333;
+// $clemson-orange:      #f66733;
+// NOTE: I just changed this variable to a different color that is not actually orange
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

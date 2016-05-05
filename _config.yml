@@ -1,14 +1,16 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Travis McArthur
+email: tdmcarthur@wisc.edu 
+description: |
+  Travis McArthur <br />
+  Ph.D. Candidate <br />
+  Department of Agricultural & Applied Economics <br />
+  University of Wisconsin-Madison
+
 ## baseurl: "" # the subpath of your site, e.g. /blog/
 ## url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  tdmcarthur
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -33,7 +35,7 @@ excerpt_separator: "<!--more-->"
 github: [metadata]
 kramdown:
   input: GFM
-  hard_wrap: false
+  hard_wrap: true
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
@@ -42,3 +44,5 @@ gems:
 # google_author: ""
 # google_site_verification: ""
 # bing_webmastertools_id: ""
+
+# description: > # this means to ignore newlines until "baseurl:"
