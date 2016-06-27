@@ -15,7 +15,7 @@ github_username:  tdmcarthur
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 # url: http://tdmcarthur.github.io
-url: http://www.travismcarthur.io
+url: http://travismcarthur.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -24,11 +24,13 @@ url: http://www.travismcarthur.io
 # baseurl: "/travismcarthur"
 ## baseurl: ""
 
+exclude: [flotsam, README.md]
+
 # Build settings
 markdown: kramdown
 
 # Other options
-permalink: blog/:year/:month/:title
+# permalink: blog/:year/:month/:title
 job.title: "Ph.D. Candidate"
 excerpt_separator: "<!--more-->"
 
