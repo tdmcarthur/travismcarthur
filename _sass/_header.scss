@@ -20,7 +20,8 @@
     margin-bottom: 0;
     float: left;
     font-weight: 500;
-		font-family: 'twentytwelve', sans-serif;
+		font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+		// 'twentytwelve', sans-serif;
     color: #ffffff;
     &,
     &:visited {
@@ -54,7 +55,8 @@
 	padding: 0;
 	list-style-type: none;
 	text-transform: uppercase;
-		font-family: 'twentytwelve', sans-serif;
+		font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+		// 'twentytwelve', sans-serif;
 
 }
 
@@ -122,7 +124,8 @@ color: #522d80;
 	min-width: 265px;
 
 z-index:999;
-	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+	// Helvetica, Arial, Verdana, sans-serif;
 
 }
 
