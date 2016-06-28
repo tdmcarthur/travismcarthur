@@ -3,7 +3,9 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-{% include image.html url="/images/self-photo.jpg" width=300 align="right" %}
+<!-- {% include image.html url="/images/self-photo.jpg" width=300 align="right" %} -->
+
+<img style="float:right;padding-left:20px" src="/images/travis-mcarthur-photo.jpg" width="300"  />
 
 ## Travis McArthur
 
