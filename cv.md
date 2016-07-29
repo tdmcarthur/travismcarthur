@@ -4,6 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-## [PDF file](/cv/Travis-McArthur-CV-2016-07-22.pdf)
+## [PDF file](/cv/Travis-McArthur-CV-2016-07-28.pdf)
 
-{% include embedpdf-modified.html code="/cv/Travis-McArthur-CV-2016-07-22.pdf" width=85 height=1100 %}
+{% include embedpdf-modified.html code="/cv/Travis-McArthur-CV-2016-07-28.pdf" width=85 height=1100 %}
