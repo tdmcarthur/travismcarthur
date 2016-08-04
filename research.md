@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Work in progress
 
-**[Direct Measurement of Efficiency Gains from Land Titling: PROCEDE’s Effect upon the Productivity of Mexican Agriculture.](http://ageconsearch.umn.edu/handle/236133)** Selected Paper, 2016 Annual Meeting of the Agricultural & Applied Economics Association.
+**Direct Measurement of Efficiency Gains from Land Titling: PROCEDE’s Effect upon the Productivity of Mexican Agriculture. 
 
 From 1993 to 2006 Mexico granted land titles to over 3.6 million farmers via a systematic program named PROCEDE. Prior to the program, selling and renting land in most of Mexico's agricultural sector was prohibited. I estimate the impact of land market liberalization in this context. In an environment with heterogeneity in agents' skill levels in agricultural and nonagricultural activities, enabling land transactions will shift the skill composition of the agricultural sector, altering agricultural productivity. Allowing rural dwellers to pursue their comparative advantage, as PROCEDE did, affects productivity in a theoretically ambiguous way. Under a Roy model framework of occupational choice, those who are best at farming do not necessarily farm because they may be even better at nonagricultural activities. The sign of the effect of PROCEDE depends on the dispersion in skill levels. Hence, empirical work is needed to investigate the question. I use the 1991 and 2007 Mexican agricultural censuses to construct a panel of productivity at the community level. PROCEDE was implemented in nearly 30,000 communities at different times, so under the assumption that there are no time-trending community-specific characteristics that are correlated with both productivity changes and the PROCEDE rollout schedule, the effect of PROCEDE on productivity is identified via a community- and time-fixed effects specification. In a preliminary estimate, I find that PROCEDE substantially raised maize productivity.
 <br>
@@ -26,5 +26,3 @@ From 1993 to 2006 Mexico granted land titles to over 3.6 million farmers via a s
 <br>
 
 #### **[RePEc page](https://ideas.repec.org/e/pmc164.html#works)**
-
-
