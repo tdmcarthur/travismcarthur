@@ -15,10 +15,8 @@ Secure property rights over land facilitates entry into and exit from the agricu
 
 **Allocative Inefficiency under Heterogeneous Technology in Bolivian Agriculture**
 <br>
-
 **Economies of Scope in Bolivian Agriculture**
 <br>
-
 **Academic Labor in the Higher Education Production Function: A Decomposition**
 <br>
 
