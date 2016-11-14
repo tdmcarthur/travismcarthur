@@ -4,14 +4,19 @@ title: Research
 permalink: /research/
 ---
 
-## Work in progress
+## Job market paper
 
-**Direct Measurement of Efficiency Gains from Land Titling: PROCEDE’s Effect upon the Productivity of Mexican Agriculture** 
+**Property Rights and Efficiency: Evidence from Mexico's Land Titling Program** 
 
-From 1993 to 2006 Mexico granted land titles to over 3.6 million farmers via a systematic program named PROCEDE. Prior to the program, selling and renting land in most of Mexico's agricultural sector was prohibited. I estimate the impact of land market liberalization in this context. In an environment with heterogeneity in agents' skill levels in agricultural and nonagricultural activities, enabling land transactions will shift the skill composition of the agricultural sector, altering the efficiency of agricultural production. Allowing rural dwellers to pursue their comparative advantage, as PROCEDE did, affects efficiency in a theoretically ambiguous way. Under a Roy model framework of occupational choice, those who are best at farming do not necessarily farm because they may be even better at nonagricultural activities. The sign of the effect of PROCEDE depends on the dispersion in skill levels. Hence, empirical work is needed to investigate the question. I use the 1991 and 2007 Mexican agricultural censuses to construct a panel of efficiency at the community level. PROCEDE was implemented in nearly 30,000 communities at different times, so under the assumption that there are no time-trending community-specific characteristics that are correlated with both efficiency changes and the PROCEDE rollout schedule, the effect of PROCEDE on efficiency is identified via a community- and time-fixed effects specification. Evidence indicates that granting land titles in this context induced a greater volume of land transactions. However, the activity in the land market did not lead to a detectable effect on the efficiency of maize production nor the crop sector generally. I also examine the consequences of the program for land concentration and receipt of credit.
+Secure property rights over land facilitates entry into and exit from the agricultural sector. In an environment with heterogeneity in agents' skill levels in agricultural and nonagricultural activities, enabling land transactions will shift the skill composition of the agricultural sector, altering the efficiency of agricultural production. Establishing secure property rights generate ambiguous outcomes for agricultural efficiency. Once land titles are granted, the best farmers may choose to leave farming to capture higher incomes in another occupation. To explore this issue empirically I examine Mexico's massive land titling program implemented nationwide between 1993 and 2006. I cannot find any change in the efficiency of agriculture caused by this program. However, the analysis reveals strong evidence for a rise in the number of individuals exiting and entering farming.
 <br>
 
+## Work in progress
+
 **Allocative Inefficiency under Heterogeneous Technology in Bolivian Agriculture**
+<br>
+
+**Economies of Scope in Bolivian Agriculture**
 <br>
 
 **Academic Labor in the Higher Education Production Function: A Decomposition**
