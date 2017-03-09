@@ -28,4 +28,4 @@ Secure property rights over land facilitates entry into and exit from the agricu
 
 <br>
 
-#### **[RePEc page](https://ideas.repec.org/e/pmc164.html#works)**
+## **[RePEc page](https://ideas.repec.org/e/pmc164.html#works)**
