@@ -17,6 +17,8 @@ Secure property rights over land facilitates entry into and exit from the agricu
 
 **Economies of Scope in Bolivian Agriculture**
 
+**The Influence of International Investment Agreements on U.S. Exports**
+
 **Academic Labor in the Higher Education Production Function: A Decomposition**
 <br>
 
@@ -28,4 +30,7 @@ Secure property rights over land facilitates entry into and exit from the agricu
 
 <br>
 
-## **[RePEc page](https://ideas.repec.org/e/pmc164.html#works)**
+## **[Google Scholar profile](https://scholar.google.com/citations?user=SkI3kagAAAAJ)**
+
+
+## **[RePEc profile](https://ideas.repec.org/e/pmc164.html#works)**
