@@ -15,7 +15,7 @@ Secure property rights over land facilitates entry into and exit from the agricu
 
 **Allocative Inefficiency under Heterogeneous Technology in Bolivian Agriculture**
 
-**Economies of Scope in Bolivian Agriculture (with Bradford Barham and Jean-Paul Chavas)**
+**Economies of Scope in Bolivian Agriculture (with Bradford Barham & Jean-Paul Chavas)**
 
 **The Influence of International Investment Agreements on U.S. Exports**
 
