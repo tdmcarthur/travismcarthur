@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-## [PDF file](/cv/Travis-McArthur-CV-2017-03-13.pdf)
+## [PDF file](/cv/Travis-McArthur-CV-2017-04-22.pdf)
 
 <br>
 
