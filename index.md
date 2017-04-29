@@ -9,4 +9,4 @@ permalink: /
 
 I'm Travis McArthur. I'm a Ph.D. candidate in the Agricultural & Applied Economics Department of the University of Wisconsin--Madison. In the fall of 2017 I will join the faculty of the Food & Resource Economics Department of the University of Florida as an assistant professor.
 
-My research examines the influence of firm heterogeneity on technical and allocative inefficiency. The context is smallholder agricultural production systems in Latin America.
+My research examines the influence of firm heterogeneity on technical and allocative inefficiency at the sectoral level. The context is smallholder agricultural production systems in Latin America.
