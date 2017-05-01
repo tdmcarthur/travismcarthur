@@ -4,12 +4,11 @@ title: CV
 permalink: /cv/
 ---
 
-## [PDF file](/cv/Travis-McArthur-CV-2017-04-22.pdf)
-
-<br>
-
-<br>
-
-<br>
-
-<br>
+<meta charset="utf-8">
+<title>Redirecting...</title>
+{% assign redirect_url = "/cv/Travis-McArthur-CV-2017-04-22.pdf" | prepend: site.baseurl | prepend: site.url %}
+<link rel="canonical" href="{{ redirect_url }}">
+<meta http-equiv="refresh" content="0; url={{ redirect_url }}">
+<h1>Redirecting...</h1>
+<a href="{{ redirect_url }}">Click here if you are not redirected.</a>
+<script>location="{{ redirect_url }}"</script>
