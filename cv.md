@@ -6,7 +6,7 @@ permalink: /cv/
 
 <meta charset="utf-8">
 <title>Redirecting...</title>
-{% assign redirect_url = "/cv/Travis-McArthur-CV-2017-04-22.pdf" | prepend: site.baseurl | prepend: site.url %}
+{% assign redirect_url = "/cv/McArthur-Travis-CV-2017-05-01.pdf" | prepend: site.baseurl | prepend: site.url %}
 <link rel="canonical" href="{{ redirect_url }}">
 <meta http-equiv="refresh" content="0; url={{ redirect_url }}">
 <h1>Redirecting...</h1>
