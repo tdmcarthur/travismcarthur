@@ -9,13 +9,10 @@ permalink: /contact/
 
 ## Travis McArthur
 
-[Department of Agricultural & Applied Economics](http://aae.wisc.edu/ "AAE's webpage")
-320 Taylor Hall
-427 Lorch Street
-University of Wisconsin-Madison
-Madison, WI 53706-1503
-
-email: tdmcarthur@wisc.edu
+University of Florida
+[Food & Resource Economics Department](http://www.fred.ifas.ufl.edu/ “FRE’s webpage")
+1123 McCarty Hall B
+Gainesville, FL 32611-0240
 
 USA tel: +1 (941) 320 4110
 MEX tel: +52 (55) 7206 2023 
