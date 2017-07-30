@@ -9,6 +9,8 @@ permalink: /contact/
 
 ## Travis McArthur
 
+tmcarthur@ufl.edu
+
 University of Florida
 [Food & Resource Economics Department](http://www.fred.ifas.ufl.edu/ “FRE’s webpage")
 1123 McCarty Hall B
