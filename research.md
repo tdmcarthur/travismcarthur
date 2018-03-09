@@ -4,14 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-## Job market paper
-
-**Property Rights and Efficiency: Evidence from Mexico's Land Titling Program [(PDF file)](/research/Travis-McArthur-JMP-Property-Rights-Efficiency.pdf)**
-
-Secure property rights over land facilitates entry into and exit from the agricultural sector. In an environment with heterogeneity in agents' skill levels in agricultural and non-agricultural activities, enabling land transactions may shift the skill composition of the agricultural sector, altering the efficiency of agricultural production. Establishing secure property rights generates ambiguous outcomes for agricultural efficiency. Once land titles are granted, the best farmers may choose to leave farming to capture higher incomes in another occupation. To explore this issue empirically I examine Mexico's massive land titling program implemented nationwide between 1993 and 2006. I do not find any change in agricultural efficiency caused by this program. However, the analysis reveals strong evidence for a rise in the number of individuals exiting and entering farming.
-<br>
-
 ## Work in progress
+
+**Property Rights and Efficiency: Evidence from Mexico's Land Titling Program **
 
 **Allocative Inefficiency under Heterogeneous Technology in Bolivian Agriculture**
 
