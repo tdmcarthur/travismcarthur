@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Work in progress
 
-**Property Rights and Efficiency: Evidence from Mexico's Land Titling Program **
+**Property Rights and Efficiency: Evidence from Mexico's Land Titling Program**
 
 **Allocative Inefficiency under Heterogeneous Technology in Bolivian Agriculture**
 
